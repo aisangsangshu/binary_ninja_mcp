@@ -1,3 +1,4 @@
+[English](README.md) | [中文说明](README-zh.md)
 # Binary Ninja MCP <img src="images/binja.png" height="24" style="margin-left: 5px; vertical-align: middle;">
 
 This repository contains a Binary Ninja plugin, MCP server, and bridge that enables seamless integration of Binary Ninja's capabilities with your favorite LLM client.
